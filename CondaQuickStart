@@ -1,0 +1,4 @@
+https://docs.conda.io/projects/conda/en/stable/user-guide/getting-started.html
+conda --version
+conda update conda
+conda activate gen #gen is my go-to, catch-all environment name
